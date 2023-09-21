@@ -11,3 +11,6 @@ Aqui estão algumas informações sobre mim:
 - ⚡ Curiosidade: Apaixonado por música, desde Twenty One Pilots e Coldplay até clássicos como Led Zeppelin e Bon Jovi. Também sou fã de Shawn Mendes. Nas horas vagas, gosto de tocar ukulele e fazer algumas melodias no violão. 🎸🎶🎵
 - 📚 Gosto de mergulhar em livros de ficção científica, como "Star Wars" e "Harry Potter", para explorar mundos imaginários fascinantes.
 - 💡 Tenho paixão por desenvolver projetos inovadores e dar vida a ideias criativas quando a inspiração bate à porta.
+
+
+<h1>OLÁ MUNDO</h1>
