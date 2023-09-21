@@ -13,4 +13,4 @@ Aqui estão algumas informações sobre mim:
 - 💡 Tenho paixão por desenvolver projetos inovadores e dar vida a ideias criativas quando a inspiração bate à porta.
 
 
-<div style="width: 100px; height: 100px; background-color: red;"></div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-17&bg_color=000000&color=c5c9e2&line=000f5c&point=a400f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
