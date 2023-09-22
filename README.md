@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor Full Stack atualmente estagiando na Nérus Software. Aqui estão algumas informações sobre mim:
 
-- 🔭 **Trabalhando Atualmente:** Desenvolvedor Full Stack Nérus Software.
+- 🔭 **Trabalhando Atualmente:** Desenvolvedor Full Stack [Nérus Software](https://nerus.com.br/?gclid=Cj0KCQjw06-oBhC6ARIsAGuzdw3RG6Gn8gzV4gqLY4GsVGvLRSx3MZCQL7YiQ6Gif2cezuY9IirERLoaArzCEALw_wcB)].
 - 🌱 **Aprendendo:** C++.
 - 👯 **Interessado em:** Colaborar em projetos interessantes.
 - 🤔 **Procurando Ajuda Com:** Aprimorar minhas habilidades de programação.
@@ -22,7 +22,7 @@ Sou um desenvolvedor Full Stack atualmente estagiando na Nérus Software. Aqui e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittor-gomide-305955244/)
 
-#### Linguagens
+#### Linguagens/Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,9 +31,6 @@ Sou um desenvolvedor Full Stack atualmente estagiando na Nérus Software. Aqui e
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Tecnologias
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
@@ -42,6 +39,7 @@ Sou um desenvolvedor Full Stack atualmente estagiando na Nérus Software. Aqui e
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
 #### IDEs/Editores
 
@@ -49,7 +47,3 @@ Sou um desenvolvedor Full Stack atualmente estagiando na Nérus Software. Aqui e
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-#### Linters
-
-![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
