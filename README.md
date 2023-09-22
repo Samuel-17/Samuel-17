@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor Full Stack atualmente estagiando na Nérus Software. Aqui estão algumas informações sobre mim:
 
-- 🔭 **Trabalhando Atualmente:** Estagiando na Nérus Software como desenvolvedor Full Stack.
+- 🔭 **Trabalhando Atualmente:** Desenvolvedor Full Stack em Nérus Software.
 - 🌱 **Aprendendo:** C++.
 - 👯 **Interessado em:** Colaborar em projetos interessantes.
 - 🤔 **Procurando Ajuda Com:** Aprimorar minhas habilidades de programação.
