@@ -2,16 +2,13 @@
 
 Sou um desenvolvedor Full Stack atualmente estagiando na Nérus Software. Aqui estão algumas informações sobre mim:
 
-- 🔭 **Trabalhando Atualmente:** Desenvolvedor Full Stack em Nérus Software.
+- 🔭 **Trabalhando Atualmente:** Desenvolvedor Full Stack Nérus Software.
 - 🌱 **Aprendendo:** C++.
 - 👯 **Interessado em:** Colaborar em projetos interessantes.
 - 🤔 **Procurando Ajuda Com:** Aprimorar minhas habilidades de programação.
 - 💬 **Pergunte-me Sobre:** Desenvolvimento de software e programação.
 - 📫 **Como Entrar em Contato:** Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vittor-gomide-305955244/).
 - 😄 **Pronomes:** Ele/Dele.
-- ⚡ **Curiosidades:** Apaixonado por música, desde Twenty One Pilots e Coldplay até clássicos como Led Zeppelin e Bon Jovi. Também sou fã de Shawn Mendes. Nas horas vagas, gosto de tocar ukulele e fazer algumas melodias no violão. 🎸🎶🎵
-- 📚 **Leitura Atual:** Mergulhando em livros de ficção científica, como "Star Wars" e "Harry Potter", para explorar mundos imaginários fascinantes.
-- 💡 **Paixão:** Desenvolver projetos inovadores e dar vida a ideias criativas quando a inspiração bate à porta.
 
 #### Estatísticas do GitHub
 
